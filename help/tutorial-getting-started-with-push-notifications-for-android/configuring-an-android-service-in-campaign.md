@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 32%
+source-wordcount: '108'
+ht-degree: 33%
 
 ---
 
-# 구성 [!DNL Android] 서비스 및 만들기 [!DNL Android] campaign의 모바일 애플리케이션
+# [!DNL Android] 서비스를 구성하고 Campaign에서 [!DNL Android] 모바일 응용 프로그램을 만드는 중
 
 Campaign에서 [!DNL Android] 서비스를 구성하고 [!DNL Android] 모바일 애플리케이션을 만드는 방법을 알아봅니다. 이 단계는 푸시 알림에 대한 대상 모바일 애플리케이션을 정의하는 데 필요합니다.
 

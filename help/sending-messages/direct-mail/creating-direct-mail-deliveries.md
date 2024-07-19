@@ -13,12 +13,12 @@ exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '35'
-ht-degree: 54%
+ht-degree: 60%
 
 ---
 
 # DM 게재 만들기
 
-방법 이해 [!UICONTROL direct mail] 의 작품 [!UICONTROL Adobe Campaign] 및 를 만들고 형식을 지정하며 실행하는 방법에 대해 알아봅니다. [!UICONTROL direct mail]게재.
+[!UICONTROL direct mail]이(가) [!UICONTROL Adobe Campaign]에서 작동하는 방식을 이해하고 [!UICONTROL direct mail]게재를 만들고, 형식을 지정하며, 실행하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on){transcript=true}

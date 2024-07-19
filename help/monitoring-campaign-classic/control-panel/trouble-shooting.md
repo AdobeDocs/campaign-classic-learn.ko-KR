@@ -8,7 +8,7 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '315'
 ht-degree: 79%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 79%
 ### 증상: 인스턴스가 [!UICONTROL Control Panel]에 나열되지 않음
 
 **원인:**
-대부분의 경우 사용자를 &quot;사용자&quot; 제품 프로필로 추가해야 합니다. _Campaign-xxx-Administrators/Admin_ 누락된 인스턴스에 대해
+대부분의 경우 누락된 인스턴스에 대해 사용자를 &quot;사용자&quot;로 제품 프로필 _Campaign-xxx-Administrators/Admin_&#x200B;에 추가해야 합니다.
 
 **해결 방법:** 관리자는 관리하려는 각 인스턴스에 대해 제품 프로필 _Campaign-xxx-Admins_&#x200B;에 사용자를 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 자신을 &quot;사용자&quot;로 추가해야 할 수 있습니다.
 

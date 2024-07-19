@@ -12,14 +12,14 @@ level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 3%
+source-wordcount: '54'
+ht-degree: 7%
 
 ---
 
 # 푸시 알림 구성 및 전송
 
-을(를) 구성하고 보내는 방법 알아보기 [!DNL push] 의 사용자에게 알림 [!DNL Android] 응용 프로그램.
+[!DNL Android] 응용 프로그램의 사용자에게 [!DNL push] 알림을 구성하고 보내는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
