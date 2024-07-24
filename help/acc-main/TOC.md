@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 튜토리얼
 user-guide-description: Adobe Campaign Classic v7에 대한 비디오 및 튜토리얼입니다.
 breadcrumb-title: Campaign Classic v7 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
+source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -47,6 +47,8 @@ ht-degree: 98%
       + [이메일 게재 문제 해결](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [이메일 게재에 첨부 파일 추가](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [게재 가능성을 위한 이메일 디자인](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [구독자의 재참여를 위한 이메일 ROI 및 모범 사례 극대화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)
+      + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
    + SMS 채널 {#sms-channel}
       + [SMS 게재 만들기](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 푸시 채널 {#push-channel}
@@ -106,5 +108,4 @@ ht-degree: 98%
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
-   + [구독자의 재참여를 위한 이메일 ROI 및 모범 사례 극대화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)
-   + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
+   + 
