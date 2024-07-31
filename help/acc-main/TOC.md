@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Classic v7 튜토리얼
 user-guide-description: Adobe Campaign Classic v7에 대한 비디오 및 튜토리얼입니다.
 breadcrumb-title: Campaign Classic v7 튜토리얼
 auto-video-transcripts: true
-source-git-commit: c87b64213114f35d01e0edd8b13b0bab483ec346
+source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 98%
@@ -108,4 +108,3 @@ ht-degree: 98%
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
-   + 
