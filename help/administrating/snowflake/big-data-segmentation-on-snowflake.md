@@ -11,7 +11,7 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 63%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 63%
 * Snowflake에 연결
 * Snowflake에 연결된 스키마 만들기
 * 스키마 확장 및 데이터 준비
-* 워크플로우 및 쿼리 만들기
+* 워크플로 및 쿼리 만들기
 * Snowflake에서 발생하는 작업 이해
 * 양식 만들기 및 마케터 액세스 허용
 * 데이터에 대한 검색 및 보고

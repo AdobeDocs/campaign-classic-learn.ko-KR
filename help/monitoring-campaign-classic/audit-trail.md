@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >감사 추적에는 Campaign Classic 버전 19.1 이상이 필요합니다.
 
-[!UICONTROL Audit Trail]은 워크플로우, 옵션, 소스 스키마를 만들고 수정하며 삭제하는 등 운영자의 작업을 로그 및 나열합니다. 또한 다음 작업은 워크플로우에 한정하여 로그합니다.
+[!UICONTROL Audit Trail]은 워크플로, 옵션, 소스 스키마를 만들고 수정하며 삭제하는 등 운영자의 작업을 로그 및 나열합니다. 또한 다음 작업은 워크플로에 한정하여 로그합니다.
 
 * 시작
 * 일시 정지

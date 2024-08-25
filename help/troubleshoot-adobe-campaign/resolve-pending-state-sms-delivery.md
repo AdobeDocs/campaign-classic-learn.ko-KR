@@ -9,7 +9,7 @@ jira: KT-8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '52'
 ht-degree: 100%
 
 ---

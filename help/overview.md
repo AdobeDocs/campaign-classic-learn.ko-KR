@@ -35,15 +35,15 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="워크플로우 Heatmap(비디오)" src="./assets/workflow-heatmap.png"/>
+      <img alt="워크플로 Heatmap(비디오)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>워크플로우 Heatmap</strong>
+    <strong>워크플로 Heatmap</strong>
     </a>
     </div>
     <p>
-    <em>동시 실행 워크플로우의 수에 대한 개요를 살펴보십시오.</em>
+    <em>동시 실행 워크플로의 수에 대한 개요를 살펴보십시오.</em>
     <p>
   </td>
    <td>

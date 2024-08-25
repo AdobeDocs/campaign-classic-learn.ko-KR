@@ -23,13 +23,13 @@ ht-degree: 98%
    + [마케팅 캠페인 관리](/help/getting-started/managing-marketing-campaigns.md)
    + [마케팅 계획, 프로그램 및 캠페인 만들기](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [캠페인 및 이메일 만들기](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [워크플로우에서 프로필 타겟팅하기](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [워크플로에서 프로필 타겟팅하기](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [이벤트가 트리거된 캠페인 만들기](/help/getting-started/create-event-triggered-campaigns.md)
 + 프로필 관리 {#profile-management}
    + [프로필 만들기 및 관리](/help/profile-management/create-and-manage-profiles.md)
    + [프로필 가져오기](/help/data-management/importing-profiles.md)
    + [수신자 목록 만들기](/help/profile-management/creating-a-list-of-recipients.md)
-   + [워크플로우를 사용하여 수신자 목록 만들기](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
+   + [워크플로를 사용하여 수신자 목록 만들기](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 메시지 보내기{#sending-messages}
    + 이메일 채널{#email-channel}
       + [이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
@@ -75,25 +75,25 @@ ht-degree: 98%
 + 보고서 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/accessing-built-in-reports.md)
    + [서술형 분석 보고서 생성](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 워크플로우를 사용한 자동화 {#automating-with-workflows}
-   + [워크플로우 만들기](/help/automating-with-workflows/creating-a-workflow.md)
-   + [타겟팅 워크플로우 만들기](/help/automating-with-workflows/creating-a-targeting-workflow.md)
++ 워크플로를 사용한 자동화 {#automating-with-workflows}
+   + [워크플로 만들기](/help/automating-with-workflows/creating-a-workflow.md)
+   + [타겟팅 워크플로 만들기](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [쿼리 결과를 제외하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [목록 업데이트 활동을 사용하여 워크플로우를 통해 목록 만들기](/help/automating-with-workflows/using-the-update-list-activity.md)
+   + [목록 업데이트 활동을 사용하여 워크플로를 통해 목록 만들기](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [표준 시간대 관리](/help/automating-with-workflows/manage-time-zones.md)
-   + [유효성 검사 워크플로우 구성](/help/automating-with-workflows/validation-flow-configuration.md)
+   + [유효성 검사 워크플로 구성](/help/automating-with-workflows/validation-flow-configuration.md)
    + [데이터 보강 활동 구성](/help/automating-with-workflows/enrichment-activity.md)
    + [스케줄러 활동 구성](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [데이터 세분화](/help/data-management/data-segmentation.md)
    + [승인 관리](/help/automating-with-workflows/managing-approvals.md)
-   + [동료로부터 학습 - 워크플로우 모범 사례](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [동료로부터 학습 - 워크플로 모범 사례](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 랜딩 페이지 구성 {#landing-pages}
    + [랜딩 페이지 구성](/help/designing-content/configure-landingpages.md)
    + [환경 설정 센터 만들기](/help/designing-content/create-a-preference-center.md)
 + [설문 조사 만들기](/help/designing-content/create-a-survey.md)
 + 모니터링 {#monitoring}
-   + [워크플로우 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
+   + [워크플로 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/monitoring-campaign-classic/audit-trail.md)
 + 데이터 관리 {#data-management}
    + [데이터 쿼리](/help/data-management/query-data.md)

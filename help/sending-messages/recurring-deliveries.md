@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 51%
+source-wordcount: '240'
+ht-degree: 50%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 51%
 
   ![연속 게재](/help/assets/delivery_continuous.jpg)
 
-* **반복 게재**&#x200B;은(는) 실행될 때마다 새 게재 인스턴스를 만듭니다. 예를 들어 워크플로우를 일주일에 한 번 실행하도록 예약하면 1년 후 52회 게재가 됩니다. 즉, 광범위한 로그 및 추적 로그가 각 게재 인스턴스에 의해 구분됩니다.
+* **반복 게재**&#x200B;은(는) 실행될 때마다 새 게재 인스턴스를 만듭니다. 예를 들어 워크플로를 일주일에 한 번 실행하도록 예약하면 1년 후 52회 게재가 됩니다. 즉, 광범위한 로그 및 추적 로그가 각 게재 인스턴스에 의해 구분됩니다.
 
   ![반복 게재](/help/assets/delivery_recurring.jpg)
 

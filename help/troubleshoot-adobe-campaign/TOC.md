@@ -21,13 +21,13 @@ ht-degree: 100%
    + [로그인 중 스크립트 오류 또는 경고 표시](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [콘솔 로그인 오류 해결](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [제로 ID 해결](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)
-+ 워크플로우 {#workflows}
-   + [비활성화된 사용자 계정이 실행 중인 워크플로우를 중지하지 못하게 하기](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
-   + [병렬 실행하는 워크플로우의 수 늘리기](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
-   + [결과 유지 조건으로 워크플로우 필터링](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
++ 워크플로 {#workflows}
+   + [비활성화된 사용자 계정이 실행 중인 워크플로를 중지하지 못하게 하기](/help/troubleshoot-adobe-campaign/prevent-disabled-accounts-from-stopping-workflow.md)
+   + [병렬 실행하는 워크플로의 수 늘리기](/help/troubleshoot-adobe-campaign/increase-parallel-workflows.md)
+   + [결과 유지 조건으로 워크플로 필터링](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
    + [쿼리 게재 출력 이름](/help/troubleshoot-adobe-campaign/query-delivery-output-names.md)
    + [오퍼 승인 시 세션이 만료됨](/help/troubleshoot-adobe-campaign/session-expired-approving-offer.md)
-   + [캠페인 워크플로우의 무조건적 정지](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
+   + [캠페인 워크플로의 무조건적 정지](/help/troubleshoot-adobe-campaign/unconditional-stop-workflow.md)
 + 게재 및 채널 {#deliveries-and-channels}
    + [비활성화된 메시지의 이메일 전송 방지](/help/troubleshoot-adobe-campaign/disabled-messages-sending-emails.md)
    + [게재 중 메시지 취소 오류 디버깅](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
