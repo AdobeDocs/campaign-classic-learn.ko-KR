@@ -23,4 +23,4 @@ ht-degree: 77%
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-모바일 앱 채널 구성에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios)를 참조하세요.
+모바일 앱 채널 구성에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=ko#installing-package-ios)를 참조하세요.

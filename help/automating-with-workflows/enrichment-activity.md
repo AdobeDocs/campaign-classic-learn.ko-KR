@@ -24,4 +24,4 @@ ht-degree: 76%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ko)를 참조하세요.

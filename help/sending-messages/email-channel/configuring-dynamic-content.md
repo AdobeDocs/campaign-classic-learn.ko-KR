@@ -23,4 +23,4 @@ ht-degree: 84%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)를 참조하세요.
+자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ko)를 참조하세요.

@@ -24,4 +24,4 @@ ht-degree: 50%
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
 
-승인 정의에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails)를 참조하세요.
+승인 정의에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ko#sending-emails)를 참조하세요.

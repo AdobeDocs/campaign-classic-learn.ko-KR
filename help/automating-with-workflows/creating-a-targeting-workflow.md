@@ -23,4 +23,4 @@ Adobe Campaign은 워크플로우를 사용하여 타기팅 캠페인을 수행�
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
 
 [워크플로우 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ko) 설명서를 참조하세요.
-자세한 내용은 [타깃팅 활동 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)를 참조하세요.
+자세한 내용은 [타깃팅 활동 정보](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ko)를 참조하세요.
