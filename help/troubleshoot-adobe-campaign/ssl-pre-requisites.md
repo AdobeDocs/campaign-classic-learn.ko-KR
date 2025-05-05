@@ -18,4 +18,4 @@ ht-degree: 100%
 
 SSL 인증서를 설치할 때 사전 요구 사항이 충족되는지 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422506?quality=12&learn=on&captions=kor){transcript=true}

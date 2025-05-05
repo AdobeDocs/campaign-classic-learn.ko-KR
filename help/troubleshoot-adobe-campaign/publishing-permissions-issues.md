@@ -18,4 +18,4 @@ ht-degree: 100%
 
 관리자가 아닌 사용자가 게시할 때의 오류를 해결하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436714?quality=12&learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 36%
 
 기존 이메일에 시드 및 증명을 추가하는 방법과 이를 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35559?quality=12&learn=on&captions=kor){transcript=true}

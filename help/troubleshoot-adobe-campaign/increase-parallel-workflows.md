@@ -18,4 +18,4 @@ ht-degree: 100%
 
 인스턴스에서 병렬 실행할 수 있는 캠페인 워크플로의 수를 늘리는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436581?quality=12&learn=on&captions=kor){transcript=true}

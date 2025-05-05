@@ -21,4 +21,4 @@ ht-degree: 82%
 
 워크플로우에 **[!UICONTROL standard exclusion]**&#x200B;을(를) 적용하여 대상을 세분화하는 방법을 알아봅니다. 또한 사전 정의된 필터를 만드는 방법과 워크플로 문제 해결 방법도 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326456?quality=12&learn=on&captions=kor){transcript=true}

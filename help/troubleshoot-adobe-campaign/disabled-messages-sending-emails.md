@@ -17,4 +17,4 @@ ht-degree: 100%
 # 비활성화된 메시지가 이메일을 트리거하는 현상
 
 비활성화된 메시지가 이메일을 보내지 못하게 하는 방법 알아보기
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437118?quality=12&learn=on&captions=kor){transcript=true}

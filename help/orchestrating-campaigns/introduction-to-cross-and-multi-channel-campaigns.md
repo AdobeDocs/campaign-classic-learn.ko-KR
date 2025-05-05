@@ -21,4 +21,4 @@ ht-degree: 88%
 
 멀티채널 및 크로스채널 캠페인의 차이점과 두 캠페인의 사용 사례를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345274?quality=12&learn=on&captions=kor){transcript=true}

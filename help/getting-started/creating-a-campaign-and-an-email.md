@@ -21,4 +21,4 @@ ht-degree: 64%
 
 캠페인에서 직접 이메일 게재를 생성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31872?quality=12&learn=on&captions=kor){transcript=true}

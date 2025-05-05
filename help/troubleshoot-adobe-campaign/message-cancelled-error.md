@@ -18,4 +18,4 @@ ht-degree: 100%
 
 게재 시 메시지 취소됨(표시를 사용할 수 없음) 오류를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422556?quality=12&learn=on&captions=kor){transcript=true}

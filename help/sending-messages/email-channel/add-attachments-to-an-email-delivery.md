@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이메일 게재에 첨부 파일을 추가하는 방법과 다양한 유형의 이메일 첨부 파일을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452996?quality=12&learn=on&captions=kor){transcript=true}

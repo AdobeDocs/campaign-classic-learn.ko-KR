@@ -41,6 +41,6 @@ ht-degree: 96%
 
 아래 비디오에서는 감사 추적 로그에 액세스할 수 있는 위치와 구성할 수 있는 설정에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33989?quality=12&learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [Audit Trail 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ko)에서 확인할 수 있습니다.

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 예약한 워크플로 활동에 시간대를 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443855?quality=12&learn=on&captions=kor){transcript=true}

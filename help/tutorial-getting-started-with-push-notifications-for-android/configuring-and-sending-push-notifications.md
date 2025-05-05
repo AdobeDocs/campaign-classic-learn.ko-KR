@@ -21,7 +21,7 @@ ht-degree: 3%
 
 [!DNL Android] 응용 프로그램의 사용자에게 [!DNL push] 알림을 구성하고 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340721?quality=12&learn=on&captions=kor){transcript=true}
 
 **이전 단계**
 

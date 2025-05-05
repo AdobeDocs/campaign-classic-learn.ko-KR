@@ -21,7 +21,7 @@ ht-degree: 91%
 
 캠페인 워크플로의 사용을 이해하고 필터링 조건을 사용하여 워크플로를 만들고 워크플로에서 프로필을 타기팅하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327086?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 다음 튜토리얼
 

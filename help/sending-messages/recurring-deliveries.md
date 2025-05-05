@@ -38,10 +38,10 @@ ht-degree: 50%
 
 이 비디오에서는 반복 게재 및 예약 활동을 구성하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27507?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 연속 게재를 설정하는 방법 {#how-to-set-up-a-continuous-delivery}
 
 이 비디오에서는 증분 쿼리를 사용하여 연속 게재를 구성하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31881?quality=12&learn=on&captions=kor){transcript=true}

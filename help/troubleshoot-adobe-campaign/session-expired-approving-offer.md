@@ -18,4 +18,4 @@ ht-degree: 100%
 
 오퍼를 승인할 때 세션이 만료되는 문제를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422551?quality=12&learn=on&captions=kor){transcript=true}

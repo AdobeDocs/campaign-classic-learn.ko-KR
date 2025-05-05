@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Campaign에 로그인할 때 표시되는 오류 또는 경고를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436221?quality=12&learn=on&captions=kor){transcript=true}

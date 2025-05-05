@@ -19,4 +19,4 @@ ht-degree: 100%
 Adobe Campaign에서 사용자를 비활성화한 경우 워크플로 실행이 중지되는 문제를 해결하는 방법을 알아봅니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335988?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422511?quality=12&learn=on&captions=kor){transcript=true}

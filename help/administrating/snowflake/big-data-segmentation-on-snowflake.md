@@ -30,6 +30,6 @@ ht-degree: 63%
 * 데이터에 대한 검색 및 보고
 * 목록에서 데이터를 내보내고 실시간 타기팅 필터를 만드는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36110?quality=12&learn=on&captions=kor){transcript=true}
 
 Snowflake 액세스를 구성하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=ko#installing-campaign-classic)를 참조하세요.

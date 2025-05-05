@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이메일 게재 콘텐츠를 구성하고, 개인화하고, 테스트하는 방법을 알아봅니다. 템플릿을 사용하고 이미지를 업로드하며 이모티콘을 추가하고 바코드와 QR 코드를 넣는 방법을 파악합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453869?learn=on&captions=kor){transcript=true}

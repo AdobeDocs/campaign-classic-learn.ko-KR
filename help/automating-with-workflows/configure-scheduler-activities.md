@@ -19,4 +19,4 @@ ht-degree: 100%
 
 워크플로에 스케줄러 활동을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447115?quality=12&learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 66%
 
 이 단원에서는 기본 Adobe Campaign Classic 사용자 인터페이스에 대해 설명하고 기본 기능을 탐색하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39536?quality=12&learn=on&captions=kor){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 IP 주소에 SOAP 요청을 허용하는 방법 이해하기
 
->[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422575?quality=12&learn=on&captions=kor){transcript=true}

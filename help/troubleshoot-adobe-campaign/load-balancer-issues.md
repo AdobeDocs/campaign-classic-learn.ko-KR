@@ -16,4 +16,4 @@ ht-degree: 100%
 # 로드 밸런서 문제
 
 인스턴스를 다시 시작할 때 발생하는 로드 밸런서 문제를 해결하는 방법 알아보기
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437498?quality=12&learn=on&captions=kor){transcript=true}

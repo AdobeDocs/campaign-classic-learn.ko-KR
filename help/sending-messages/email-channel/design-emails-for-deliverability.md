@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Campaign에 게재 가능성 모범 사례를 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452565?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

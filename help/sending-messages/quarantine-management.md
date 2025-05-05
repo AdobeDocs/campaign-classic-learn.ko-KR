@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign에서 격리 관리의 원리를 파악하고 격리한 주소를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421901?quality=12&learn=on&captions=kor){transcript=true}

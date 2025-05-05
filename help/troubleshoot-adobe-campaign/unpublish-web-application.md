@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Campaign에서 웹 애플리케이션 게시를 취소하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422570?quality=12&learn=on&captions=kor){transcript=true}

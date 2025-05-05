@@ -22,6 +22,6 @@ ht-degree: 50%
 승인을 통해 운영자는 워크플로우를 관리하는 결정을 하거나 워크플로우의 지속적인 실행을 확인할 수 있습니다.
 승인 및 캠페인을 설정하는 방법과 게재 및 워크플로 승인을 구분하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452620?quality=12&learn=on&captions=kor){transcript=true}
 
 승인 정의에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=ko#sending-emails)를 참조하세요.

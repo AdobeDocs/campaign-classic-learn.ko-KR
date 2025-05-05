@@ -20,4 +20,4 @@ ht-degree: 70%
 
 이 비디오에서는 Adobe Experience Platform Mobile SDK를 구성하고 설치하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326585?quality=12&learn=on&captions=kor){transcript=true}

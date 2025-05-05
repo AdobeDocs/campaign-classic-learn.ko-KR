@@ -18,4 +18,4 @@ ht-degree: 100%
 
 제로(0) ID 문제를 해결하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3440148?quality=12&learn=on&captions=kor){transcript=true}

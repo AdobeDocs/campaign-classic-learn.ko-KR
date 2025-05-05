@@ -34,18 +34,18 @@ Adobe Campaign은 마케터가 게재 콘텐츠, 캠페인 타깃, 데이터 추
 
 캠페인 워크플로의 모든 게재에 대해 동일한 검토자 세트가 있는 경우 캠페인 수준에서 승인 및 검토자를 설정하여 캠페인 승인 기능을 적용합니다. 워크플로가 실행되면 승인 작업 및 검토자가 워크플로의 각 게재 활동에 푸시됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31885?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 게재에 대한 승인 구성   {#configuring-approvals-for-deliveries}
 
 게재 수준에서 승인을 설정할 수도 있습니다. 게재 승인 단계 및 검토자가 캠페인 승인 단계 및 검토자와 다른 경우 게재 설정이 캠페인 설정을 덮어씁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31886?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 승인 활동 구성   {#configuring-an-approval-activity}
 
 게재 또는 캠페인 승인과 달리, 승인 활동을 통해 워크플로 내에서 승인 프로세스를 만들 수 있습니다. 이 방법으로 게재를 시작하기 전에 타기팅 선택 논리를 승인할 수 있습니다. 또한 필요한 경우 워크플로 내의 여러 수준에서 승인을 받을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31887?quality=12&learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [승인 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=ko)를 참조하십시오.

@@ -21,6 +21,6 @@ ht-degree: 77%
 
 모바일 앱 채널이 인스턴스에 설치되어 있는지 확인하는 방법과 설치하는 방법을 배웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340425?quality=12&learn=on&captions=kor){transcript=true}
 
 모바일 앱 채널 구성에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=ko#installing-package-ios)를 참조하세요.

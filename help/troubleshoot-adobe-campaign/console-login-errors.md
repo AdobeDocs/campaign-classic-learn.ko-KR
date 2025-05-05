@@ -18,4 +18,4 @@ ht-degree: 100%
 
 콘솔 로그인 중에 발생하는 오류를 해결하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437773?quality=12&learn=on&captions=kor){transcript=true}

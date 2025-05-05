@@ -23,4 +23,4 @@ ht-degree: 59%
 
 탐색기에서 수신자 목록을 구성하여 대상자를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31902?learn=on&captions=kor){transcript=true}

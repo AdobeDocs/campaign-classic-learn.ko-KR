@@ -18,4 +18,4 @@ ht-degree: 100%
 
 워크플로에서 무조건적 정지를 올바르게 실행하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437454?quality=12&learn=on&captions=kor){transcript=true}

@@ -22,6 +22,6 @@ ht-degree: 17%
 
 Adobe Campaign의 웹 애플리케이션 편집기를 사용하여 환경 설정 센터를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31883?quality=12&learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [랜딩 페이지 만들기](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=ko)에 대한 자세한 설명서를 참조하세요.

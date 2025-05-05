@@ -18,4 +18,4 @@ ht-degree: 100%
 
 앱 구독 RCP에 추가 매개 변수가 채워지지 않는 경우 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422516?quality=12&learn=on&captions=kor){transcript=true}

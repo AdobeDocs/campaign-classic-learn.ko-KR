@@ -24,6 +24,6 @@ ht-degree: 38%
 
 이 비디오에서는 유형화 규칙을 적용하여 Adobe Campaign Classic에서 피로도 관리를 구현하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31884?quality=12&learn=on&captions=kor){transcript=true}
 
 [캠페인 유형화](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ko)에 대해 자세히 알아보려면 제품 설명서를 참조하세요.

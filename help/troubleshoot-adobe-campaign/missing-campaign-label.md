@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Analytics에서 캠페인 레이블 누락을 해결하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436813?quality=12&learn=on&captions=kor){transcript=true}

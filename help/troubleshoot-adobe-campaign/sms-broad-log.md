@@ -18,4 +18,4 @@ ht-degree: 100%
 
 SMS를 잘못된 번호로 보냈을 때 SMS 브로드 로그 상태가 &#39;보내기 완료&#39;로 표시되는 문제를 디버깅하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335980?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422580?quality=12&learn=on&captions=kor){transcript=true}

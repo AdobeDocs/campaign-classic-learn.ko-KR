@@ -17,4 +17,4 @@ ht-degree: 100%
 
 온-프레미스 설치 시 메모리 부족 오류를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335891?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422561?quality=12&learn=on&captions=kor){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 &quot;결과 유지&quot; 조건을 참으로 설정하여 워크플로를 필터링하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422565?quality=12&learn=on&captions=kor){transcript=true}

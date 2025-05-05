@@ -21,6 +21,6 @@ ht-degree: 100%
 
 이메일 게재 만들기 프로세스를 배우고 이메일 콘텐츠를 디자인하고 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447784?quality=12&learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=ko)를 참조하십시오.

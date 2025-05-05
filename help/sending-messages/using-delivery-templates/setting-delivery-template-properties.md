@@ -21,4 +21,4 @@ ht-degree: 32%
 
 다음 비디오는 게재 템플릿 속성을 설정하는 방법을 보여 주며 각 속성에 대해 자세히 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34560?quality=12&learn=on&captions=kor){transcript=true}
