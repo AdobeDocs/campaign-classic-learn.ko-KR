@@ -2,7 +2,7 @@
 title: Android용 푸시 알림 시작 - 소개
 description: 이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 단계를 설명합니다.
 feature: Push
-jira: KT-6438
+jira: KT-5951
 doc-type: article
 activity: setup
 team: TM
@@ -10,7 +10,7 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 100%
@@ -41,7 +41,7 @@ Adobe Campaign을 통해 개인화 및 세그먼트화한 [!DNL push] 알림을 
 
    [!DNL Mobile App channel] 패키지는 [!DNL Campaign] 인스턴스에 설치해야 합니다. 다음 비디오에서는 [!DNL Mobile App channel]이 인스턴스에 설치되어 있는지 확인하는 방법과 설치되어 있지 않은 경우 설치하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340425?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## 튜토리얼 개요
 
