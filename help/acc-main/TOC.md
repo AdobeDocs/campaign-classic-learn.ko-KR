@@ -104,7 +104,7 @@ ht-degree: 93%
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
-      + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [&#x200B; [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
