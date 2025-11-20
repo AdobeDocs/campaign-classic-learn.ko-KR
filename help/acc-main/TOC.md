@@ -8,14 +8,14 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 98%
+ht-degree: 93%
 
 ---
 
 
 # Adobe Campaign Classic v7 튜토리얼 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - Tutorials](/help/overview.md)
++ [Adobe Campaign Classic V7 - 자습서](/help/overview.md)
 + 시작 {#getting-started}
    + [Adobe Campaign Classic 소개](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign 클라이언트 설치 및 설정](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -34,8 +34,8 @@ ht-degree: 98%
    + 이메일 채널{#email-channel}
       + [이메일 게재 만들기 및 디자인](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [이메일 게재 콘텐츠 디자인](/help/sending-messages/email-channel/design-email-delivery-content.md)
-      + [이메일의 시드 및 증명 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [증명 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [이메일의 시드 및 교정쇄 관리](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [교정쇄 전송 및 유효성 검사](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [컨트롤 그룹 사용](/help/sending-messages/email-channel/use-control-groups.md)
       + [게재를 A/B 테스트용으로 구성](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [다이내믹 콘텐츠 구성](/help/sending-messages/email-channel/configuring-dynamic-content.md)
@@ -72,10 +72,10 @@ ht-degree: 98%
    + [멀티채널 및 크로스채널 캠페인 소개](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [멀티채널 캠페인 만들기](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [크로스채널 캠페인 만들기](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ 보고서 {#reporting}
++ 보고 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/accessing-built-in-reports.md)
    + [서술형 분석 보고서 생성](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 워크플로를 사용한 자동화 {#automating-with-workflows}
++ 워크플로우를 사용한 자동화{#automating-with-workflows}
    + [워크플로 만들기](/help/automating-with-workflows/creating-a-workflow.md)
    + [타겟팅 워크플로 만들기](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -92,7 +92,7 @@ ht-degree: 98%
    + [랜딩 페이지 구성](/help/designing-content/configure-landingpages.md)
    + [환경 설정 센터 만들기](/help/designing-content/create-a-preference-center.md)
 + [설문 조사 만들기](/help/designing-content/create-a-survey.md)
-+ 모니터링 {#monitoring}
++ 모니터 {#monitoring}
    + [워크플로 열 지도](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [감사 추적](/help/monitoring-campaign-classic/audit-trail.md)
 + 데이터 관리 {#data-management}
@@ -104,7 +104,7 @@ ht-degree: 98%
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
-      + [&#x200B; [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
