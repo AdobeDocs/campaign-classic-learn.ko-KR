@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign Classic v7에 대한 비디오 및 튜토
 breadcrumb-title: Campaign Classic v7 튜토리얼
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Campaign Classic v7 튜토리얼 {#tutorials}
 
-+ [Adobe Campaign Classic V7 - 자습서](/help/overview.md)
++ [Adobe Campaign Classic V7 - 튜토리얼](/help/overview.md)
 + 시작 {#getting-started}
    + [Adobe Campaign Classic 소개](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Adobe Campaign 클라이언트 설치 및 설정](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -75,7 +75,7 @@ ht-degree: 93%
 + 보고 {#reporting}
    + [기본 제공 보고서 액세스](/help/reporting/accessing-built-in-reports.md)
    + [서술형 분석 보고서 생성](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 워크플로우를 사용한 자동화{#automating-with-workflows}
++ 워크플로를 사용한 자동화{#automating-with-workflows}
    + [워크플로 만들기](/help/automating-with-workflows/creating-a-workflow.md)
    + [타겟팅 워크플로 만들기](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [쿼리 결과를 결합하여 대상 세분화하기](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -104,7 +104,7 @@ ht-degree: 93%
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
    + 외부 데이터베이스 액세스(FDA) {#fda}
-      + [&#x200B; [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [ [!DNL Snowflake]의 빅데이터 관리](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 문제 해결](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
