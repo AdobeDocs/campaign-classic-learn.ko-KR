@@ -20,4 +20,4 @@ ht-degree: 15%
 
 Adobe Campaign은 워크플로우를 사용하여 타기팅 캠페인을 수행하거나 캠페인을 빌드하거나 Adobe Campaign 기술 프로세스를 실행합니다. 이 비디오에서는 타겟팅 워크플로우에 중점을 둡니다. 타겟팅 워크플로우를 사용하면 여러 게재 타겟을 구축할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31870?captions=kor&quality=12&learn=on){transcript=true}
