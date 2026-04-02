@@ -11,7 +11,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 다음 비디오에서는 Adobe Campaign 클라이언트 콘솔을 다운로드하여 설치하고, 여러 환경에 대한 연결을 만들고 관리하며, Adobe Campaign 클라이언트 콘솔에 대한 액세스를 확인하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38271?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){transcript=true}

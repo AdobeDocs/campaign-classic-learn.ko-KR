@@ -11,7 +11,7 @@ level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
 workflow-type: ht
-source-wordcount: '153'
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 아래 비디오에서는 감사 추적 로그에 액세스할 수 있는 위치와 구성할 수 있는 설정에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33989?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 자세한 내용은 [Audit Trail 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ko)에서 확인할 수 있습니다.

@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8389
 exl-id: 18b996f2-67f9-425f-a41b-baec564fe08f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 SSL 인증서를 설치할 때 사전 요구 사항이 충족되는지 확인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422506?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12&learn=on){transcript=true}

@@ -11,7 +11,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Campaign Classic이 Adobe Digital Experience 포트폴리오에 어떻게 적합한지 이해하고 주요 기능 및 성능에 대한 개요를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39520?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12&learn=on){transcript=true}

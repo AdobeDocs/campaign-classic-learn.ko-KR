@@ -7,7 +7,7 @@ type: Troubleshooting
 jira: KT-8427
 exl-id: 3bb6e76e-9a19-4e7a-a82e-28d0b232be46
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
 ht-degree: 100%
 
@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Analytics에서 캠페인 레이블 누락을 해결하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3436813?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}

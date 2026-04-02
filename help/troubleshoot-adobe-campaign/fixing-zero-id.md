@@ -8,7 +8,7 @@ type: Troubleshooting
 jira: KT-8430
 exl-id: 62b8b245-944e-40ce-8cae-a052cf96c99f
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '29'
 ht-degree: 100%
 
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 제로(0) ID 문제를 해결하는 방법 알아보기
 
->[!VIDEO](https://video.tv.adobe.com/v/3440148?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}
