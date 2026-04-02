@@ -21,4 +21,4 @@ ht-degree: 100%
 
 교정쇄 전송 및 유효성 검사 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448924?captions=kor&learn=on){transcript=true}
