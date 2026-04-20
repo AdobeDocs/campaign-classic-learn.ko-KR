@@ -5,13 +5,15 @@ type: Tutorial
 solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
-git-repo: https://github.com/AdobeDocs/campaign-classic-learn.ko-KR
+git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
-source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: ht
+source-git-commit: 72d10799b685f0925d5e6dd8b8df5cf0ff38ed98
+workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
