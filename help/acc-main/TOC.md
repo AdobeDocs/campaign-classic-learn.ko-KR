@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Classic v7 튜토리얼
 user-guide-description: Adobe Campaign Classic v7에 대한 비디오 및 튜토리얼입니다.
 breadcrumb-title: Campaign Classic v7 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: ht
+source-git-commit: 22e97df9f7f13f03a1b0a2830b4a2b62c752c731
+workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -99,7 +99,7 @@ ht-degree: 100%
    + [데이터 쿼리](/help/data-management/query-data.md)
 + 통합 {#integrating}
    + [Adobe Target과 통합](/help/integrations/target-integration.md)
-   + [Dynamics 365와 통합](/help/integrations/dynamics365-integration.md)
+   + {hide-from-toc}[Dynamics 365와 통합](/help/integrations/dynamics365-integration.md)
 + 관리 {#administrating}
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + [Adobe Campaign용 SMS 설정](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=ko)
