@@ -36,4 +36,4 @@ Adobe Campaign Classic의 프로필 개념을 이해합니다. 프로필 데이�
 
 또한 이 비디오에서는 Adobe Campaign Classic의 개인 정보 보호 규정(GDPR) 준수 및 CCPA(California Consumer Privacy Act)에 대해서도 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326755?captions=kor&quality=12&learn=on){transcript=true}

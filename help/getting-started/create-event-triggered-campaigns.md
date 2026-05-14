@@ -30,4 +30,4 @@ ht-degree: 100%
 
 이벤트가 트리거된 캠페인을 만들고 사용법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451878?captions=kor&quality=12&learn=on){transcript=true}

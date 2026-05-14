@@ -28,6 +28,6 @@ ht-degree: 67%
 
 게재 로그 정보를 기반으로 데이터 보강 활동을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33211?captions=kor&quality=12&learn=on){transcript=true}
 
 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ko)를 참조하세요.

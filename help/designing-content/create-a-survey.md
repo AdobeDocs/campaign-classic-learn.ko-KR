@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Adobe Campaign Classic에서 설문 조사를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448080/?captions=kor&learn=on){transcript=true}
