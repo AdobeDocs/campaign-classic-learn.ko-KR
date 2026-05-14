@@ -10,18 +10,22 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/epoqi-wtTbA12Ham41xZvdzcpDZ3PiC48Wr-kqvPcfM
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 32%
+source-wordcount: 71
+ht-degree: 67%
 
 ---
 
 # [!UICONTROL app subscription] 스키마를 확장하여 푸시 알림 개인화
 
-[!DNL Campaign]이(가) 모바일 앱에서 받은 개인화 값을 저장할 수 있도록 [!UICONTROL app subscription] 스키마를 확장하는 방법을 알아보십시오.
+[!DNL Campaign]에서 모바일 앱으로부터 받은 개인화 값을 저장할 수 있도록 [!UICONTROL app subscription] 스키마를 확장하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445559?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
 
 **다음 단계**
 

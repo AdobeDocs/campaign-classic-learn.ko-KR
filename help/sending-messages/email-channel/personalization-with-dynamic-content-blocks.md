@@ -10,13 +10,16 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: a6fac47b141f8731f8798c2e45a87ceab08bc54f
-workflow-type: ht
-source-wordcount: '126'
+TQID: https://experienceleague.adobe.com/dw5qPs17IJiwe6cbieK2hHclpJsA6YE6wkcP55V-YDc
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+workflow-type: tm+mt
+source-wordcount: 126
 ht-degree: 100%
 
 ---
-
 
 # 다이내믹 콘텐츠 블록을 사용하여 이메일 개인화
 
@@ -26,6 +29,6 @@ Adobe Campaign에서는 콘텐츠 또는 메시지 모양을 개인화하여 수
 
 다이내믹 콘텐츠 블록을 만드는 방법과 이 블록을 사용하여 이메일 게재의 콘텐츠를 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31878?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
 개인화에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ko)를 참조하세요.
