@@ -10,30 +10,37 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-TQID: https://experienceleague.adobe.com/kMT-E2VOVEDgcINzgobQvKSm1z37lW8Cp1MNdkuwM9Q
+TQID: 'https://experienceleague.adobe.com/kMT-E2VOVEDgcINzgobQvKSm1z37lW8Cp1MNdkuwM9Q'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Personalization
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 97
+source-wordcount: '97'
 ht-degree: 46%
-
 ---
-
 # 이메일 개인화 - 조건부 콘텐츠를 사용하여 다국어 뉴스레터 만들기
 
 조건부 콘텐츠 필드를 구성하여 고급 개인화를 만들 수 있습니다. 특정 조건이 충족되면 전체 텍스트 블록 및/또는 이미지가 교체됩니다.
 
 다중 언어 뉴스레터의 예에 따라 게재에 조건부 콘텐츠를 추가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31880?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
 개인화에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ko)를 참조하세요.

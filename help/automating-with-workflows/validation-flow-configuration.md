@@ -9,20 +9,33 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-TQID: https://experienceleague.adobe.com/KhR76gfI2ZAMjDZDHCm7tOqQcJ5atG23hAwssYh3kcc
+TQID: 'https://experienceleague.adobe.com/KhR76gfI2ZAMjDZDHCm7tOqQcJ5atG23hAwssYh3kcc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
+  - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+    internal-label: Approvals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 274
+source-wordcount: '274'
 ht-degree: 96%
-
 ---
-
 # 유효성 검사 워크플로 만들기
 
 Adobe Campaign은 마케터가 게재 콘텐츠, 캠페인 타깃, 데이터 추출 및 예산 승인을 검토하고 제공할 수 있는 몇 가지 옵션을 제공합니다.
@@ -40,18 +53,18 @@ Adobe Campaign은 마케터가 게재 콘텐츠, 캠페인 타깃, 데이터 추
 
 캠페인 워크플로의 모든 게재에 대해 동일한 검토자 세트가 있는 경우 캠페인 수준에서 승인 및 검토자를 설정하여 캠페인 승인 기능을 적용합니다. 워크플로가 실행되면 승인 작업 및 검토자가 워크플로의 각 게재 활동에 푸시됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31885?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on){transcript=true}
 
 ## 게재에 대한 승인 구성  {#configuring-approvals-for-deliveries}
 
 게재 수준에서 승인을 설정할 수도 있습니다. 게재 승인 단계 및 검토자가 캠페인 승인 단계 및 검토자와 다른 경우 게재 설정이 캠페인 설정을 덮어씁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31886?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on){transcript=true}
 
 ## 승인 활동 구성  {#configuring-an-approval-activity}
 
 게재 또는 캠페인 승인과 달리, 승인 활동을 통해 워크플로 내에서 승인 프로세스를 만들 수 있습니다. 이 방법으로 게재를 시작하기 전에 타기팅 선택 논리를 승인할 수 있습니다. 또한 필요한 경우 워크플로 내의 여러 수준에서 승인을 받을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31887?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on){transcript=true}
 
 자세한 내용은 [승인 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=ko)를 참조하십시오.

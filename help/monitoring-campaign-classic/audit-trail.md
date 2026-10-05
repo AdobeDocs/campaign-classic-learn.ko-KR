@@ -9,20 +9,29 @@ team: PM
 role: Admin
 level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-TQID: https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE
+TQID: 'https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: cebd7cfa-b9fa-4d9f-a2ab-fce31f32c4a3
+    internal-label: Audit trail
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Intermediate
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 100%
-
 ---
-
 # Audit Trail 사용 방법
 
 [!UICONTROL Audit Trail]은 작업의 전체 목록과 Adobe Campaign 내에서 발생하는 이벤트를 실시간으로 캡처합니다. [!UICONTROL Audit Trail] 기능 중에는 외부 도움 없이 데이터 기록에 액세스하는 기능이 포함되어 있습니다. 이는 다음과 같은 질문의 답을 찾는 데 도움이 됩니다.
@@ -48,6 +57,6 @@ ht-degree: 100%
 
 아래 비디오에서는 감사 추적 로그에 액세스할 수 있는 위치와 구성할 수 있는 설정에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33989?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
 
 자세한 내용은 [Audit Trail 설명서](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=ko)에서 확인할 수 있습니다.
