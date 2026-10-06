@@ -10,21 +10,34 @@ role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
-TQID: https://experienceleague.adobe.com/TT6QItpOh4g1nyiefu-aK5h0kUV0y-uwgKlNbk-KNwY
+TQID: 'https://experienceleague.adobe.com/TT6QItpOh4g1nyiefu-aK5h0kUV0y-uwgKlNbk-KNwY'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Personalization
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 388
+source-wordcount: '388'
 ht-degree: 100%
-
 ---
-
 # Android용 푸시 알림 시작 - 소개
 
 Adobe Campaign을 통해 개인화 및 세그먼트화한 [!DNL push] 알림을 [!DNL iOS] 및 [!DNL Android] 모바일 디바이스로 전송할 수 있습니다. 이 튜토리얼에서는 Adobe Campaign에서 [!DNL Android] 앱으로 [!DNL push] 알림을 전송하는 단계를 설명합니다.

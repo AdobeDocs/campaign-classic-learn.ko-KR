@@ -9,26 +9,38 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-TQID: https://experienceleague.adobe.com/GO7vLCIH3da7Y5Q6a3t1zUrgXUKOBfxef-6RetcpEho
+TQID: 'https://experienceleague.adobe.com/GO7vLCIH3da7Y5Q6a3t1zUrgXUKOBfxef-6RetcpEho'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
 subfeature_v2:
   - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+    internal-label: Approvals
+  - id: f529d0bd-1401-4c88-9833-43228cc1d40f
+    internal-label: Profiles
+  - id: 97f7b899-98c8-5133-9446-bfaf99a51b9f
+    internal-label: Data Management Activity
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
+    internal-label: Data management
+source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
 workflow-type: tm+mt
-source-wordcount: 280
+source-wordcount: '280'
 ht-degree: 1%
-
 ---
-
 # 데이터 세분화
 
 Adobe Campaign을 사용하면 일반 소비자 속성 및 기타 데이터 소스의 딥 쿼리를 통해 고급 세그먼테이션을 수행할 수 있으므로 재사용 가능한 목록을 만들고, 데이터에 대한 실시간 변경 사항을 기반으로 목록을 동적으로 업데이트하며, 이러한 데이터 포인트에서 다변량 테스트와 같은 보다 복잡한 활동을 수행할 수 있습니다. 이 튜토리얼에서는 통합 고객 프로필, 프로필을 만들고 업데이트하는 방법 및 이러한 프로필을 기반으로 고객 세그먼트를 만드는 방법을 설명합니다.
