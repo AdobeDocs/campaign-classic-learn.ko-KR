@@ -32,9 +32,9 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '255'
-ht-degree: 83%
+ht-degree: 100%
 ---
 # Adobe Campaign Classic v7 튜토리얼
 
@@ -62,7 +62,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>워크플로우 Heatmap</strong>
+    <strong>워크플로 Heatmap</strong>
     </a>
     </div>
     <p>
@@ -84,11 +84,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의(비디오)" src="./assets/29940.png" />
+      <img alt="AMP를 사용하여 대화형 이메일 콘텐츠 정의(비디오)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>AMP를 사용하여 인터랙티브한 이메일 콘텐츠 정의</strong>
+    <strong>AMP를 사용하여 대화형 이메일 콘텐츠 정의</strong>
     </a>
     </div>
     <p>
