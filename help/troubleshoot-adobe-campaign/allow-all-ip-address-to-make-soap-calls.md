@@ -26,7 +26,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
 ht-degree: 100%
 ---
@@ -34,4 +34,4 @@ ht-degree: 100%
 
 IP 주소에 SOAP 요청을 허용하는 방법 이해하기
 
->[!VIDEO](https://video.tv.adobe.com/v/3422575?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on){transcript=true}

@@ -28,7 +28,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
 ht-degree: 100%
 ---
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 컨트롤 그룹의 개념을 파악하고 게재에 컨트롤 그룹을 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449977?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >타겟팅 워크플로에 여러 게재가 있는 경우 캠페인 설정과 게재 수준에서 컨트롤 그룹 설정을 활성화해야 합니다.

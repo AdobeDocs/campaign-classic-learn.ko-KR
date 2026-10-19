@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 이메일 게재 콘텐츠를 구성하고, 개인화하고, 테스트하는 방법을 알아봅니다. 템플릿을 사용하고 이미지를 업로드하며 이모티콘을 추가하고 바코드와 QR 코드를 임베드하는 방법을 파악합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453869?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}

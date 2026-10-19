@@ -25,7 +25,7 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '28'
 ht-degree: 100%
 ---
@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Adobe Campaign에서 웹 애플리케이션 게시를 취소하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422570?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12&learn=on){transcript=true}

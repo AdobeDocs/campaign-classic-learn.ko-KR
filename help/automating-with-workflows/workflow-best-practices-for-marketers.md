@@ -32,7 +32,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 ---
@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Adobe Campaign의 강력한 기능인 워크플로를 통해 보다 손쉽게 캠페인을 관리하고 고객에게 다가갈 수 있습니다. LoyaltyOne의 마케팅 Associate Director인 Adam Wilson의 마케터를 위해 5가지 필수 워크플로 모범 사례를 학습하고 적용해 보세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413955?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
