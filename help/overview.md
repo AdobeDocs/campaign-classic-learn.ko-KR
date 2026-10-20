@@ -41,7 +41,7 @@ ht-degree: 100%
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Classic V7의 다양한 기능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
 >[!INFO]
-> 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
+> 질문이 있습니까? 경험을 공유하거나 동료와 의견을 교환하시겠습니까? 또는 Adobe 팀을 위한 학습 컨텐츠에 대한 피드백을 가지고 있습니까? [Adobe Campaign 학습 커뮤니티 스레드](https://experienceleaguecommunities.adobe.com?lang=ko:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)에서 대화에 참여하십시오.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
