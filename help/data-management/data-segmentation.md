@@ -51,7 +51,7 @@ Adobe Campaign을 사용하면 일반 소비자 속성 및 기타 데이터 소�
 
 Adobe Campaign의 통합된 고객 프로필을 통해 마케터는 해당 데이터를 대규모로 캡처 및 관리할 수 있습니다. 인구 통계학적 세부 정보 &quot;우편번호&quot; &quot;주소&quot; &quot;성별&quot; 등과 같은 프로필 속성부터 상호 작용 데이터, &quot;메시지 열기&quot;, &quot;이메일 클릭&quot;, &quot;웹 사이트 방문&quot;, 전환 데이터 및 심지어 오프라인 데이터까지 모든 것이 가능합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507730?captions=kor&quality=12&learn=on){transcript=true}
 
 ## 고객 프로필 생성 및 업데이트 {#customer-profile-creation-and-update}
 
@@ -63,5 +63,5 @@ Adobe Campaign의 통합된 고객 프로필을 통해 마케터는 해당 데�
 
 참고: 이 비디오는 Adobe Campaign Classic V6에 기록되었으며 기능은 완전히 동일하지만 워크플로우 아이콘이 변경되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507875?captions=kor&quality=12&learn=on){transcript=true}
 
